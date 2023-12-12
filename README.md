@@ -7,9 +7,6 @@ RheminderBot is a Telegram bot designed to help users manage and receive reminde
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
   - [Commands](#commands)
 - [Project Structure](#project-structure)
@@ -22,28 +19,6 @@ RheminderBot is a Telegram bot designed to help users manage and receive reminde
 - Upload exam schedules in ICS format.
 - Receive daily reminders about upcoming events.
 - Integration with the Telegram bot API.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.6 or higher
-- [python-telegram-bot](https://python-telegram-bot.readthedocs.io/) library
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/rheminder-bot.git
-   cd rheminder-bot
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
