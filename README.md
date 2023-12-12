@@ -13,10 +13,9 @@ RheminderBot is a Telegram bot designed to help users manage and receive reminde
 
 ## Features
 
-- User registration with unique IDs.
+- /start command to initialize the bot, giving it your user id
+- Receive daily reminders about ongoing events.
 - Upload exam schedules in ICS format.
-- Receive daily reminders about upcoming events.
-- Integration with the Telegram bot API.
 
 ## Usage
 
