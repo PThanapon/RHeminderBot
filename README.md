@@ -1,6 +1,3 @@
-Certainly! Below is a template for a README file for your RheminderBot project. Please customize it with your specific project details.
-
-```markdown
 # RheminderBot
 
 ## Project Overview
